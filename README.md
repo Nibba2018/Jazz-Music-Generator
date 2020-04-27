@@ -4,4 +4,4 @@
 
 ## Sampling & Generation
 
-<img src="/images/music_gen.jpg">
+<img src="/images/music_gen.png">
